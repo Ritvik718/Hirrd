@@ -77,7 +77,7 @@ Ensure you have the following installed:
      ```env
      VITE_SUPABASE_URL=<your-supabase-url>
      VITE_SUPABASE_ANON_KEY=<your-supabase-anon-key>
-     VITE_CLERK_FRONTEND_API=<your-clerk-frontend-api>
+     VITE_CLERK_PUBLISHABLE_KEY=<your-clerk-api-key>
      ```
 
 4. Start the development server:
